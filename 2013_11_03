@@ -1,7 +1,7 @@
 1.修正需求分析目的    
 明确需求分析和功能设计阶段流程：    
 A.各模块功能叙述文档，描述用户和商家可以使用的功能    
-B.各模块页面线框图（线框图软件：Mockup Builder http://www.mockupbuilder.com/）    
+B.各模块页面线框图（线框图软件：http://balsamiq.com/download/）    
 
 2.开发节点
 A.11.3~11.10 开发各功能模块
